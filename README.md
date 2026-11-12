@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm lampardkarunia
 
-<!--
-**lampardkarunia/lampardkarunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent security researcher based in Indonesia.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Smart contract security audits (EVM / BNB Chain)
+- Bug bounty hunting — protocol audits, compiler and specification review
+- Ethereum ecosystem: Solidity and Vyper tooling, EIP specification feedback
+
+## Recent public reports
+
+- Vyper compiler issue: CompilerPanic on `concat()` with an `empty()` argument — vyperlang/vyper#5368
+- EIP-8282 specification feedback: mandatory 0xB0 builder credential prefix — ethereum/EIPs#12662
+
+## Interests
+
+Protocol security, consensus and execution specs, and making free-mint and launch mechanics safer for agent wallets.
